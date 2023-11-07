@@ -1,0 +1,7 @@
+builder\builder\Construtor.class
+builder\builder\Monitor.class
+builder\builder\start.class
+builder\builder\Aluno.class
+builder\builder\AlunoBuilder.class
+builder\builder\MonitorBuilder.class
+builder\builder\Builder.class
